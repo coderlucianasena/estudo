@@ -1,2 +1,2 @@
 # estudo
-Repositório de cursos da comunidade DEV Completo.
+Repositório para cursos da comunidade DEV Completo.
