@@ -1,2 +1,2 @@
 # estudo 
-Repositório focado em estudo onde estou inserindo os exercifcios que estou fazendo das Tecnologias que estou estudando: HTML5, CCS3, JavaScript e React.
+Repositório dedicado ao estudo, onde estou inserindo exercícios práticos para aprender, praticar e consolidar meu conhecimento em HTML5, CSS3, JavaScript, React e React Native.
