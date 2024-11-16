@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minha Página</title>
+</head>
+<body>
+    <h1>Bem-vindo à minha página estática!</h1>
+    <button id="getData">Obter Dados</button>
+    <div id="result"></div>
+    
+    <script>
+    document.getElementById('getData').addEventListener('click', () => {
+        fetch('/api/dados')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('result').innerText = data.mensagem;
+            });
+    });
+    </script>
+    
+</body>
+</html>
